@@ -1,0 +1,17 @@
+# render.yaml - Multiple required variables
+services:
+  - type: web
+    name: nodejs-app
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      # Will ask for this
+      - key: SESSION_ID
+        sync: false
+      
+      
+      # Hardcoded (no prompt)
+      - key: DEFAULT_TIMEOUT
+        value: "30000"
