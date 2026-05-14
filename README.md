@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/r3wmpwr/LOGO.jpg" width="300" height="300">
+  <img src="https://files.lordobitotech.xyz/mediafiles/fabcdc6e-37f3-4af4-b9e7-b68771723f03.jpg" width="300" height="300">
   <h1>RED XMD by DFS</h1>
 </div>
 <p align="center">
